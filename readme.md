@@ -3,10 +3,6 @@
 
 ##### This project currently uses Python version 2.7 or 3.6
 
-![Alt text](https://raw.githubusercontent.com/kiahamedi/WILLIAM/master/wallpapers/jelviis.png "Optional title")
-
-[See on youtube](https://www.youtube.com/watch?v=33k3GG6Gszo)
-
 This project can be an audio assistant on your operating system and perform the tasks that you are considering for it.
 You can use different scripts to use in the language interface
 
@@ -58,7 +54,7 @@ To do this, you can open the file and add your own conversations and send us
     **WILLIAM :** Right away, sir!  Created new window in existing browser session.<br>
     **Talk to WILLIAM :** Search youtube for Call of Duty<br>
     **WILLIAM :** On it!  Created new window in existing browser session.<br>
-    **Talk to WILLIAM :** Search for kia hamedi on google maps<br>
+    **Talk to WILLIAM :** Search for Reza Aghajani on google maps<br>
     **WILLIAM :** On it!  Created new window in existing browser session.
 
 - ### Changes Wallpaper.
@@ -114,12 +110,6 @@ Voice mode may give a series of warnings for numerous reasons, but still might f
 ## Exit:
 
 To exit and close the program, you must first close the graphic window and then stop the terminal output with Ctrl + Z control keys.
-
-## DesktopShortcut:
-
-for create icon WILLIAM in desktop and your applications, you must copy WILLIAM.desktop in this path: /home/kia/.local/share/applications
-
-to exit WILLIAM in DesktopShortcut without terminal output , you must first close the graphic windows and next tell WILLIAM goodbye
 
 And finally I thank Nihal Singh for the original code
 
